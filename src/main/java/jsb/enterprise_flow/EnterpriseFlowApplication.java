@@ -10,4 +10,6 @@ public class EnterpriseFlowApplication {
         SpringApplication.run(EnterpriseFlowApplication.class, args);
     }
 
+    // TODO 1. DB 정리 -> 2. 프로젝트 주제 구체화 -> CI/CD, Docker 정리 -> 3. 구현 순서에 따라 개발
+
 }
